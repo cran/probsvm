@@ -1,0 +1,6 @@
+import("kernlab")
+
+export(probsvm)
+
+S3method(predict, probsvm)
+
